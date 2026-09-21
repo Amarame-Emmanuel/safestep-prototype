@@ -1,0 +1,10 @@
+{
+  "name": "hci-assignment",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Shared runtime dependencies for backend/ (resolved here since backend has no package.json of its own).",
+  "dependencies": {
+    "@capacitor/core": "^8.4.1",
+    "@capacitor/haptics": "^8.0.2"
+  }
+}
